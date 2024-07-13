@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <br />
     <a href="https://youtu.be/B91wc5dCEBA" target="_blank">
       <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
@@ -16,7 +16,7 @@
    <div align="center">
      Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube.
     </div>
-</div>
+</div> -->
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -24,7 +24,7 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
+<!-- 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
 
@@ -34,15 +34,15 @@ This repository contains the code corresponding to an in-depth tutorial availabl
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
-<a href="https://youtu.be/B91wc5dCEBA" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+<a href="https://youtu.be/B91wc5dCEBA" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a> -->
 
 ## <a name="introduction">🤖 Introduction</a>
 
 Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
+<!--If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a> -->
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -101,7 +101,7 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-## <a name="snippets">🕸️ Snippets</a>
+<!-- ## <a name="snippets">🕸️ Snippets</a>
 
 <details>
 <summary><code>.vscode/settings.json</code></summary>
@@ -876,3 +876,4 @@ And if you're hungry for more than just a course and want to understand how we l
 </a>
 
 #
+-->
